@@ -9,8 +9,9 @@ public class CountScore : MonoBehaviour
 
     int totalClicks;
 
-    public void OnMouseUp()
-    {
-        totalClicksText.text = totalClicksText.ToString();
+    public void OnMouseUp() {
+        totalClicks++;
+
+        totalClicksText.text = totalClicks.ToString();
     }
 }
