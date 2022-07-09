@@ -646,6 +646,9 @@
  <Reference Include="Unity.TextMeshPro">
  <HintPath>C:/Users/Anwender/Documents/GitHub/Abominatiogus/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Users/Anwender/Documents/GitHub/Abominatiogus/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.2D.IK.Editor">
  <HintPath>C:/Users/Anwender/Documents/GitHub/Abominatiogus/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
  </Reference>
@@ -694,6 +697,9 @@
  <Reference Include="Unity.Mathematics.Editor">
  <HintPath>C:/Users/Anwender/Documents/GitHub/Abominatiogus/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.Monetization">
+ <HintPath>C:/Users/Anwender/Documents/GitHub/Abominatiogus/Library/ScriptAssemblies/UnityEngine.Monetization.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
  <HintPath>C:/Users/Anwender/Documents/GitHub/Abominatiogus/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
@@ -702,6 +708,9 @@
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
  <HintPath>C:/Users/Anwender/Documents/GitHub/Abominatiogus/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Advertisements.Editor">
+ <HintPath>C:/Users/Anwender/Documents/GitHub/Abominatiogus/Library/ScriptAssemblies/UnityEngine.Advertisements.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
  <HintPath>C:/Users/Anwender/Documents/GitHub/Abominatiogus/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
